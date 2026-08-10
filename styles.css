@@ -612,12 +612,6 @@ section {
   font-size: 0.98rem;
 }
 
-.academic-note {
-  color: var(--text-secondary);
-  font-size: 0.92rem;
-  line-height: 1.55;
-  margin: 0.55rem 0 0;
-}
 
 @media (max-width: 600px) {
   .academic-item {
